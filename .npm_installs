@@ -1,0 +1,1 @@
+express sequelize body-parser cors dotenv nodemon mysql2 sequelize-cli multer
